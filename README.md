@@ -1,1 +1,2 @@
-# reactMiniProjectBackgroundChanger
+# React Mini Project: BackgroundChanger
+
